@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hugh Peters's passing-bell rung out in a letter to him from one that hath been an accurate observer of Hugh Peters and Oliver Cromwells bloody actions. Justice hath leaden feet, but iron hands. T.V.</title>
+            <author>T. V.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64743</idno>
+            <idno type="STC">Wing V12</idno>
+            <idno type="STC">ESTC R222518</idno>
+            <idno type="EEBO-CITATION">99833681</idno>
+            <idno type="PROQUEST">99833681</idno>
+            <idno type="VID">38159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2067:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hugh Peters's passing-bell rung out in a letter to him from one that hath been an accurate observer of Hugh Peters and Oliver Cromwells bloody actions. Justice hath leaden feet, but iron hands. T.V.</title>
+                  <author>T. V.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the first year of his Majesties restauration and his kingdoms libertie from tyranny and oppression,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Peters, Hugh, 1598-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38159:1"/>
+            <pb facs="tcp:38159:1"/>
+            <p>Hugh Peters'<hi rend="sup">s</hi> PASSING-BELL Rung out in a LETTER To Him, from One that hath been an Accurate Obſerver of <hi>Hugh Peters</hi> and <hi>Oliver Cromwells</hi> Bloody Actions.</p>
+            <q>Juſtice hath leaden feet, but Iron Hands. <bibl>T. V</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Firſt Year of his Majeſties Reſtauration and his Kingdoms Libertie from Tyranny and Oppreſſion. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:38159:2"/>
+            <pb n="3" facs="tcp:38159:2"/>
+            <head>A Letter to Mr. <hi>Hugh Peters</hi> now in the <hi>Tower.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>Peters,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Engliſh proverb is now proved true, <hi>Froſt and Fraud alwaies come to foul ends:</hi> The Pot goe's often to the water, but at laſt com's broken home. If God ſhall in this your day give you Grace to repent, 'tis his great mercy to your Soul that you have yet ſpace to call on God for mercy, though your Body ſuffer by the hand of Juſtice. You are like to come to a better market, than you were like to do, except you leave drink<g ref="char:EOLhyphen"/>ing Sack and Tobacco, whereby you endeavour to ſmo<g ref="char:EOLhyphen"/>ther, and drown your conſcience: O conſider ſeriouſly how fatall an inſtrument you have been to the late King, to the State and Miniſtry: you will finde very few men, ſince the creation of the World, ſo deeply engaged in murder, blood, deſtruction of Church and State, Parlia<g ref="char:EOLhyphen"/>ment, Prieſt and People, as you have been. You have made the Pulpit a Players ſtage, a Drum of Treaſon and Rebellion: You have paun'd your Soul to the Divell, and ſould your ſelf, with Ahab, ro do wickedly: you have been a bloody Traitor, and a ravening Wolf. You have murdred your King in a vizard, you have broken all laws againſt God and Man: you have been a ſhifter, jugler, and a notorious diſſembler<g ref="char:punc">▪</g> No Oath, Covenant, Law, Proteſtation could binde you: Your principles have va<g ref="char:EOLhyphen"/>ried more often than the Moon you have made a bankrupt of Conſcience, and all Solemn Obligations to God and Man.</p>
+            <pb n="4" facs="tcp:38159:3"/>
+            <p>Surely, you cannot now, in this condition you are in, the Tower, but appear to your ſelf, the moſt outlawed notorious, perfidious Traitor that ever was in this King<g ref="char:EOLhyphen"/>dom, having wholly given up your ſelf to your luſts of all ſorts, Atheiſm, Murder, Adultery, Simony, Sorcery, Gluttony, and, it is to be feared, the Sin againſt the holy Ghoſt: your ſins being like <hi>Abſalom's</hi> inceſtuous and noon-day rapes: your vileneſſe acted in the ſight of the Sun, and before all the World, having ſurpaſſed the cun<g ref="char:EOLhyphen"/>ning and cruelty of the moſt Jeſuited Heads, as much as you come ſhort of them in learning.</p>
+            <p>I leave it to all the World to judge, whether your Treaſons have not far ſurpaſſed the Gunpowder Treaſon: they but plotted ſecretly; but your helliſh Treaſon you have acted openly: you by your Sorcery and Witchcraft frighted the late glorious King from Hampton-Court to the Iſle of <hi>Wight;</hi> Uſher'd and came before his Coach, when he was brought Priſoner to St. <hi>James's</hi> from <hi>Hurſt.</hi> Caſtle, and ſlaſhing your whip, told ſome of your fellow-Traitors, that you had at length brought the King to be whipped: and not many daies after his Head was whip't off by you, and ſuch vizzarded Divels as you are: you have been the murtherer of our Royall King, the deſtroy<g ref="char:EOLhyphen"/>er of all true Religion: <hi>Guy Fauks</hi> was a very honeſt man compared to <hi>Hugh Peters: Cataline</hi> never conceived what you have acted: you have beſmeared Church, State, and Common-wealth, with the life-blood of our King, even the beſt of Kings, by your Murther, Treaſon, Perjury, and Regal Parricide.</p>
+            <p>And now behold God's judgments have overtaken you, you are taken in the Net of your own inventions, being made a by-word, ſcorn, and contempt of all people: You are become like <hi>Cain,</hi> afraid of all men: like <hi>Judas,</hi> curſ<g ref="char:EOLhyphen"/>ed to poſterity: excommunicated by all good Chriſti<g ref="char:EOLhyphen"/>ans,
+<pb n="5" facs="tcp:38159:3"/> as a murtherer of your Father, a King-killer; you are now in your Conſcience haunted with the Ghoſt and Blood of that glorious King you have traiterouſly butch<g ref="char:EOLhyphen"/>ered: and the exemplary vengeance of God is now fallen upon you: and all men ſee, and ſay, There is a juſt God in Heaven that rewardeth Traitors according to their de<g ref="char:EOLhyphen"/>merits, leaving <hi>Hugh Peters</hi> to poſterity for the bloodieſt Traitor that ever Hiſtory recorded.</p>
+            <p>With what face of braſs couldſt thou deny thy name, when thou waſt apprehended in <hi>Southwark,</hi> and when thou waſt brought to the Lievtenant of the <hi>Tower:</hi> I am credibly in<g ref="char:EOLhyphen"/>formed, that thou ſaid'ſt thy name was <hi>Thompſon,</hi> and ſaid'ſt, <hi>Thou wouldſt not be ſuch a Villain as Hugh Peters for a thouſand pound:</hi> Whereupon thoſe that took thee, know<g ref="char:EOLhyphen"/>ing how to anſwer ſo impudent a Traitor as thy ſelf, repli<g ref="char:EOLhyphen"/>ed, <hi>If thou wert not Hugh Peters, they would be hang'd for Hugh Peters; but, if thou wert Hugh Peters, thou ſhouldeſt be hanged for thy ſelf.</hi>
+            </p>
+            <p>At <hi>Worceſter</hi> fight, thou madeſt uſe of a Cart, inſtead of a Pulpit, to rail Treaſon againſt our Royall King, calling it a Sermon. Be admoniſhed from me to ſtudy a Text for thy farewell—preachment at Tiburn: and let it be all of immethodicall nonſenſe, and undigeſted railings, juſtification of thy felf, and vindicating of thy baudy life and converſation, that all the Spectators may ſee thou art right <hi>Hugh Peters</hi> to the end, without grace, common ſenſe and honeſty; and ſuch a diſſembling Traitor, Atheiſt, and Villain, as no tongue or pen can utter, nor repreſent thy wicked baſeneſſe, knavery, impudence, and Atheiſm.</p>
+            <p>
+               <hi>You have,</hi> according to your own preachment, <hi>brought your Hogs to a fair market;</hi> every man expecting by the next winde to ſee you drawn on a Sledg to Tiburn, your Quarters ſet up for Crowe's-meat on the City Gates, and
+<pb n="6" facs="tcp:38159:4"/> thy traiterous Head ſtand Sentinel on <hi>London</hi>-bridge, for the fouls of the Aire to pick out thy accurſed eyes for the murther and treaſon againſt our late Lord and Sovereign King, whoſe wiſdom, piety, faith and patience, God hath crowned with a glorious Crown of immortallity, whoſe memory will be ever honored in all ſucceeding ages, as <hi>England</hi>'s moſt Noble Patron, and the moſt patient Mar<g ref="char:EOLhyphen"/>tyr for her Lawes and Liberties.</p>
+            <p>
+               <hi>Hugh Peters!</hi> Thou uſeſt in thy Pulpit to break Jeſts on thy houre-glaſs: let me tell thee a ſerious one concerning the glaſs of thy life: Thy ſands are almoſt run out: the thread of thy life in a few dayes will be cut off: how can ſuch a <hi>Shimei,</hi> who hath ſo traiterouſly ſlain ſuch a King, ever hope to have peace, either in this or an<g ref="char:EOLhyphen"/>other world, ſince divine vengeance ſuffered not any of the Murtherers of <hi>Julius Caeſar,</hi> who was but an Uſurper, to die any other then a violent death: neither can any of thy fellow-murtherers die in peace, but ſhall fall from one wickedneſſe to another, till eternal vengeance ſeize upon you all, for murthering the moſt royalleſt, and moſt illuſtrious Exemplar of Virtue and Pietie, that ever ſat on a Chriſtian Throne: the moſt unſpotted perſon, the juſteſt and wiſeſt Prince, the moſt charitable Chri<g ref="char:EOLhyphen"/>ſtian that ever wore a Crown. This was CHARLES the Firſt, the Wiſe, the Juſt. This, this was the man; this the Chriſtian King, the Saint, the Martyr, whom thou <hi>Iudas (aliàs Hugh Peters)</hi> and thy fellow-Traitors deſtroyed, and like Cannibals devoured.</p>
+            <p>Never hath any Hiſtory of humane affairs recorded any ſuch excels of riot, ſuperfluity of wickednes, flowing from the hearts of any men parallel to your: never any com<g ref="char:EOLhyphen"/>bination of wickedmen was more filled with the quinteſ<g ref="char:EOLhyphen"/>ſence of all wickednes, which exceeds the names of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l vice and infamie; or ever more deſerved to be made a publick
+<pb n="7" facs="tcp:38159:4"/> curſe, and univerſal execration to all mankinde; to have their perſons cut off from the face of the earth, and bu<g ref="char:EOLhyphen"/>ried with the burial of an Aſſe, to have their poſterity as a peſtilent progeny (as <hi>Raviliac</hi> in <hi>France</hi>) ſpewed out of the Land, their Houſes plucked down and made a Jakes, their Memories blotted out from under heaven, or, if re<g ref="char:EOLhyphen"/>membred, with perpetual ſcorn, curſing, and infamy, as being men, whoſe paths lead to the chambers of death, and their ſteps to the pit of hell. To conclude, I wiſh you, whatever becomes of your body, to repent, and earneſtly to cry to God day and night, for mercie on your ſoul, that little time you are to ſtay here, and be no more.</p>
+            <closer>
+               <signed>T. V.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>This is preſented unto you by one that for nine hundred twen<g ref="char:EOLhyphen"/>ty eight dayes was kept cloſe Priſoner in the Tower, for bring<g ref="char:EOLhyphen"/>ing up from <hi>Oxford</hi> to <hi>London 1643.</hi> his late Majeſties Let<g ref="char:EOLhyphen"/>ter for Peace, and was robbed, ſequeſtred and plundred for do<g ref="char:EOLhyphen"/>ing the ſame, of eleven thouſand pounds, to his damage at this day, twenty thouſand pounds.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Sept. 23. 1600.</hi>
+                     </date>
+                  </dateline>
+                  <signed>T.V.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
